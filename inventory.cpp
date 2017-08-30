@@ -5,7 +5,7 @@ using namespace std;
 int main()
 {
   const int MAX_ITEMS = 10;
-  string inventory[Max_ITEMS];
+  string inventory[MAX_ITEMS];
 
   int numItems = 0;
   invetory[numItems++] = "sword";
